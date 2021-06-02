@@ -1,3 +1,3 @@
 # UCCA_English-IMP
-UCCA Refined Implicit Corpus v0.9
+UCCA Refined Implicit Corpus v1.0
 
